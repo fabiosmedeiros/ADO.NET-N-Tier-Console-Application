@@ -1,0 +1,6 @@
+O Solution está dividido nas seguintes camadas :
+
+- Apresentação : Nessa camada temos toda a parte de interação com o usuário. Também conhecida como UI (User Interface).
+- Domínio : São as entidades de domínio da aplicação.
+- Repositório : Nessa camada estão os repositórios de dados.
+- Servico : Objetos que contém lógica de negócio.
